@@ -12,6 +12,7 @@ I update it regularly to reflect my coding journey.
 javascript-lab/
 └── RegularExpression (regex)/
     ├── anchors.js
+    ├── email-vailidator.js
     ├── index.js
     ├── lookaheads.js
     ├── password-validator.js
