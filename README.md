@@ -16,6 +16,7 @@ javascript-lab/
     ├── index.js
     ├── lookaheads.js
     ├── password-validator.js
+    ├── phone-num-vailidator.js
     └── username-validator.js
 
 ```
